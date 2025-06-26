@@ -1,10 +1,4 @@
-<h1 align="center">👋 Olá! Eu sou o Gabriel Gaspar Grandolpho</h1>
-
-<p align="center">
-  💻 Desenvolvedor Front-End | 📍 Brasil <br>
-  🎓 Cursando o último semestre de Análise e Desenvolvimento de Sistemas <br>
-  🚀 Focado em projetos com HTML, CSS, JavaScript, React e Tailwind CSS
-</p>
+<img src="https://raw.githubusercontent.com/seu-usuario/seu-repo/main/caminho/banner.gif" width="100%" alt="Banner animado" />
 
 ---
 

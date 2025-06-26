@@ -1,8 +1,19 @@
-<img src="https://raw.githubusercontent.com/seu-usuario/seu-repo/main/caminho/banner.gif" width="100%" alt="Banner animado" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c1836c0b-73bd-4a77-8767-f9227a4d3cd2" alt="Banner animado" />
+</p>
 
 ---
 
-### 🚀 Tecnologias e Ferramentas que uso:
+<p align="center">
+  💻 Desenvolvedor Front-End focado em criar interfaces modernas, responsivas e acessíveis. <br>
+  🎓 Cursando o último semestre de Análise e Desenvolvimento de Sistemas. <br>
+  🚀 Em constante evolução com HTML, CSS, JavaScript, React e Tailwind CSS. <br>
+  🎯 Meu objetivo é aplicar meus conhecimentos em projetos reais, crescer profissionalmente e contribuir com soluções eficientes para a web.
+</p>
+
+---
+
+### 🚀 Tecnologias e Ferramentas:
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -13,6 +24,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![IA](https://img.shields.io/badge/IA-00BFFF?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 

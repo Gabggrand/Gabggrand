@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/890de3f5-178a-431e-ad0a-8d061361da5d" alt="Banner animado" />
+  <img src="https://github.com/user-attachments/assets/ec70f921-f644-40ea-ae7a-4cc164a4db9a" alt="Banner animado" />
 </p>
 
 ---

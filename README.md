@@ -4,9 +4,12 @@
 
 ---
 
-<p align="center">
-  💻 Desenvolvedor focado em Back-End, com base sólida em Front-End.<br>
-  🚀 Busco aplicar e expandir meus conhecimentos em projetos desafiadores e inovadores, crescendo continuamente como desenvolvedor.
+## Olá! Eu sou o Gabriel Gaspar Grandolpho
+
+<p align="center">  
+  💻 Desenvolvedor Back-End, com base sólida em Front-End <br> 
+  🚀 Busco aplicar e expandir meus conhecimentos em projetos desafiadores e inovadores, crescendo continuamente como desenvolvedor. <br> 
+  🔗 Veja meu portfólio: <a href="https://gabriel-frontend.netlify.app/" target="_blank">gabriel-frontend.netlify.app</a>
 </p>
 
 ---

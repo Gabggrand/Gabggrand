@@ -5,10 +5,8 @@
 ---
 
 <p align="center">
-  💻 Desenvolvedor Front-End focado em criar interfaces modernas, responsivas e acessíveis. <br>
-  🎓 Cursando o último semestre de Análise e Desenvolvimento de Sistemas. <br>
-  🚀 Em constante evolução com HTML, CSS, JavaScript, React e Tailwind CSS. <br>
-  🎯 Meu objetivo é aplicar meus conhecimentos em projetos reais, crescer profissionalmente e contribuir com soluções eficientes para a web.
+  💻 Desenvolvedor focado em Back-End, com base sólida em Front-End.<br>
+  🚀 Busco aplicar e expandir meus conhecimentos em projetos desafiadores e inovadores, crescendo continuamente como desenvolvedor.
 </p>
 
 ---
@@ -16,6 +14,7 @@
 ## Tecnologias e Ferramentas:
 
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>

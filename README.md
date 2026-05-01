@@ -4,12 +4,10 @@
 
 ---
 
-# Gabriel Gaspar Grandolpho
+# Gabriel Gaspar 
 
 <p align="center">  
-  Desenvolvedor Back-End com base sólida em Front-End.  
-  Busco aplicar e expandir meus conhecimentos em projetos desafiadores e inovadores, evoluindo continuamente como desenvolvedor.  
-  Portfólio: <a href="https://gabriel-frontend.netlify.app/" target="_blank">gabriel-frontend.netlify.app</a>
+  Desenvolvedor Back-End Java com base sólida em Front-End. Experiência no desenvolvimento de APIs REST utilizando Spring Boot e integração com banco de dados. Busco aplicar e expandir meus conhecimentos em projetos desafiadores, evoluindo continuamente como desenvolvedor. Portfólio: <a href="https://gabriel-backend.netlify.app/" target="_blank">gabriel-backend.netlify.app</a>
 </p>
 
 ---
